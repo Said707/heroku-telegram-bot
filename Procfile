@@ -1,1 +1,1 @@
-web: python spreadsheet.py
+web: python detailed_example.py
