@@ -1,1 +1,1 @@
-web: python detailed_example.py
+run:detached python detailed_example.py
